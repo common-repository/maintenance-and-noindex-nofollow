@@ -1,0 +1,1 @@
+<br /><br /><center>Install <a href="http://www.lionscripts.com/product/maintenance-and-noindex-nofollow/" target="_blank">Site Maintenance Plugin</a> to enable Maintenance Mode and apply Noindex, Nofollow on your WordPress Websites.</center>
